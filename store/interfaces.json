@@ -1,5 +1,8 @@
 {
   "scrolleffect": {
     "component": "scrolleffect"
+  },
+  "removeiso":{
+    "component": "removeiso"
   }
 }
