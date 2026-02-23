@@ -4,5 +4,8 @@
   },
   "removeiso":{
     "component": "removeiso"
+  },
+  "whatsappstermax":{
+    "component": "whatsappstermax"
   }
 }
